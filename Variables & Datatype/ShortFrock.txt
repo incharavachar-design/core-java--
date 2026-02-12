@@ -1,0 +1,26 @@
+class shortFrock{
+public static void main(String[] frock){
+
+String name = "ShortFrock";
+String material = "Cotton";
+String length = "Knee Length";
+String sleeveType = "3/4 Sleeve";
+String neckStyle = "V-Neck";
+String style = "Floral";
+String itemWeight = "300 g";
+String department = "Women";
+int netQuanity = 1;
+String includedComponents = " Pants";
+
+System.out.println("name is "+name);
+System.out.println("material is "+material);
+System.out.println("length is "+length);
+System.out.println("sleeveType is "+sleeveType);
+System.out.println("neckStyle is "+neckStyle);
+System.out.println("style is "+style);
+System.out.println("itemWeight is "+itemWeight);
+System.out.println("department is "+department);
+System.out.println("netQuanity is "+netQuanity);
+System.out.println("includedComponents is "+includedComponents);
+}
+}
